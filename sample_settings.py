@@ -13,4 +13,3 @@ refresh_token = '3...m'
 # good reads
 goodreads_api_key = '5...v'
 goodreads_api_secret = 'T...4'
-supported_subreddits = 'india + books'
